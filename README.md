@@ -54,6 +54,10 @@ Project #2  for Operating Systems
 - **Intermediate Outputs**:
   - Logs the state of the system after each process allocation (e.g., updated `Work` and `Finish` arrays).
 
-## Input File (`data.txt`)
-- Format:
+## Input File (`table.txt`)
+- Format (by section):
+  - Number of Processes and Resources
+  - Available resources
+  - Allocation Matrix
+  - Max Matrix
 
